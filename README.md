@@ -56,7 +56,7 @@ To remove null values I have used SimpleImputer using
 
 
 ### (5) Rescaling of features
-- Used `StandaedScaler` for rescaling of features.This step scales data into a uniform format that would utilize the data in a better way while performing fitting and applying different algorithms to it. 
+- Used `StandardScaler` for rescaling of features.This step scales data into a uniform format that would utilize the data in a better way while performing fitting and applying different algorithms to it. 
 
 ## Exploratory Data Analysis
 
