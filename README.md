@@ -45,7 +45,7 @@ The main objective of this project is to build a binary classifier model, which 
 
 To remove null values I have used SimpleImputer using
 - mode for categorical features
-- media for numerical features
+- median for numerical features
 
 ### (3) Feature encoding
 - Used Label encoding to transform categorical features - `sex`, `is_smoking`.
