@@ -171,7 +171,7 @@ To evaluate the models I have used `Recall`, `F1-score` and `roc_auc_score`.
                           roc- auc score for test dataset = 0.6803
                           f1- score                       = 0.3554
                  (ii) Using lower threshold value (< 0.4) improves recall significantly and f1-score also improves slighlty.
-                         Recall for test dataset         = 0.78 
+                         Recall for test dataset         = 0.79
                          f1- score                       = 0.37 
            
 
